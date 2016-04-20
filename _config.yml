@@ -1,0 +1,28 @@
+name: ROLAND VAS
+favicon: null
+layout_spectrum: 0.12091361614875495
+typography_spectrum: 0.03898598626255989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6794524749275297
+  lightness: 0.37449218961410224
+  saturation: 0.08297941647469997
+  rhythmicContrast: 0.18366249441169202
+purpose: []
